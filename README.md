@@ -134,3 +134,4 @@ Ultroid is licensed under [GNU Affero General Public License](https://www.gnu.or
 * [MarshalX](https://github.com/MarshalX) for [PyTgCalls.](https://github.com/MarshalX/tgcalls)
 
 > Made with 💕 by [@TeamUltroid](https://t.me/TeamUltroid).    
+https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FGg555gringo%2FUltroid
